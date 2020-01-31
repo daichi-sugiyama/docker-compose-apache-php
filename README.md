@@ -6,7 +6,7 @@ docker-composeでapacheを立ち上げた
 pullしたディレクトリに移動して<br>
 `~$ docker-compose up -d`
 ### 終了時
-pullしたディレクトリに移動して<br
+pullしたディレクトリに移動して<br>
 `~$ docker-compose down`
 
 # 説明
